@@ -1,4 +1,4 @@
-#Implement Matrix Addition
+#Implement Matrix Addition,multiplications and transpose of matrixs
 package Assessment;
 import java.util.Scanner;
 public class AddMatrix {
